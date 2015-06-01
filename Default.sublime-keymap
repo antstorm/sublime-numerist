@@ -1,0 +1,4 @@
+[
+  { "keys": ["ctrl+super+up"], "command": "increment_number" },
+  { "keys": ["ctrl+super+down"], "command": "decrement_number" }
+]
